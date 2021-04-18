@@ -1,7 +1,7 @@
 # Setup
 title:               Decaf0Cokes
 tagline:             'ML/DL Research&Study Blog'
-description:         'ML/DL(NLP,Generative Model etc) Research&Study Blog by Decaf0Cokes'
+description:         'ML/DL (NLP,Generative Model..) Research&Study Blog by Decaf0Cokes'
 url:                 https://decaf0cokes.github.io
 baseurl:             ''
 paginate:            5
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
