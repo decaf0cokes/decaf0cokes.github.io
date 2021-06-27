@@ -4,7 +4,7 @@ tagline:             'ML/DL Research&Study Blog'
 description:         'ML/DL (NLP,Generative Model..) Research&Study Blog by Decaf0Cokes'
 url:                 https://decaf0cokes.github.io
 baseurl:             ''
-paginate:            5
+paginate:            1
 permalink:           pretty
 
 # About/contact
